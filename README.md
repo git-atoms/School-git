@@ -11,3 +11,4 @@ I will make my database in **SQL Server Management Studio**.<br>
 
 
 ### For more informations, I invite you to check **Documentation** folder.
+(<https://github.com/git-atoms/School-git/tree/master/02%20Documentation>)
