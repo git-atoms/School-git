@@ -12,9 +12,15 @@
 <!--- Korzyści płynące dla mnie z tego projektu --->
 2. My gains from this project:
 
-+ I will learn how to create DB (atomization, normalization, 1st/2nd/3rd normal forms, relationships).
++ How to create DB (atomization, normalization, 1st/2nd/3rd normal forms, relationships).
 
-+ I will learn and practice MS SQL commands and syntax.
++ Learn and practice SSMS tool.
+
++ Learn and practice MS SQL commands and syntax.
+
++ Practice Markdown.
+
++ Practice with VisualStudio Code multi-tool (it's really amazing).
 
 + I will get knowledge, skill and experience for future projects.
 
