@@ -1,5 +1,8 @@
+<!---  --->
+
 # Description of 'School-git' database project:<br>
 
+<!--- Opisuję tu założenia projektu --->
 ### Main goals:
 * Every teacher can lead more than one subject (Przedmiot).
 * Every student can have more than one subject and more than one note from that.
@@ -10,6 +13,8 @@
 
 With '#' I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project.
 ===
+
+
 
 ### Steps:
 1. I designed datababase of school in Draw.io and exported to *.jpg file.<br>
