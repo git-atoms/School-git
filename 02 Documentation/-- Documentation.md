@@ -21,12 +21,12 @@ With '#' I named my workbook files, where I learnt and tried side-commands, not 
 
 <!--- Opisuję tu kroki realizacji projektu --->
 ### Steps:
-1. I designed datababase of school in Draw.io and exported to *.jpg file.<br>
+1. Design datababase of school in Draw.io and exported to *.jpg file format.<br>
 
-2. I created 'School_DB' database
+2. I create 'School_DB' database
 
 
-3. I created main tables of my project:<br>
+3. Main tables of my project:<br>
 
 <!--- Dla wygody dodałem linki do wymienianych nazw plików --->
 
@@ -47,3 +47,5 @@ With '#' I named my workbook files, where I learnt and tried side-commands, not 
 <!--- Info o tym, że wszystko klepię z palca aby wprawić się lepiej --->
 (*For better practice, I do not use ready, right-mouse-button commands or solutions and no COPY-PASTE because I write everything myself everytime in SSMS query window.*)<br>
 
+
+4. Bridge tables (to avoid many-to-many relationships).
