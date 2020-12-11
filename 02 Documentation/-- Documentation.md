@@ -12,8 +12,7 @@
 
 2. I created 'School_DB' database
 
-
-I type first queries to create main tables:<br>
+<u>I type first queries to create main tables:</u><br>
 + Student
 + Przedmiot
 + Nauczyciel
