@@ -27,10 +27,11 @@ With '#' I named my workbook files, where I learnt and tried side-commands, not 
 
 <!--- Dla wygody dodałem linki do wymienianych nazw plików --->
 <u>I type first queries to create main tables:</u><br>
-+ Student (<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/01%20Student.sql>)
-+ Przedmiot (<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/02%20Przedmiot.sql>)
-+ Nauczyciel (<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/03%20Nauczyciel.sql>)
-+ Kierunek Studiów (<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/04%20Kierunek%20studi%C3%B3w.sql>) <br>
++ Student<br> <https://github.com/git-atoms/School-git/blob/master/02%20Documentation/01%20Student.sql>
++ Przedmiot<br> <https://github.com/git-atoms/School-git/blob/master/02%20Documentation/02%20Przedmiot.sql>
++ Nauczyciel<br><https://github.com/git-atoms/School-git/blob/master/02%20Documentation/03%20Nauczyciel.sql>
++ Kierunek Studiów<br><https://github.com/git-atoms/School-git/blob/master/02%20Documentation/04%20Kierunek%20studi%C3%B3w.sql>
+<br>
 
 
 <!--- Info o tym, że wszystko klepię z palca aby wprawić się lepiej --->
