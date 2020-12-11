@@ -22,6 +22,8 @@
 
 + Practice with VisualStudio Code multi-tool (it's really amazing).
 
++ A lot of own work with tons of forums, documentations, trainings/curses/tutorials reffering to this project.
+
 + I will get knowledge, skill and experience for future projects.
 
 ---
