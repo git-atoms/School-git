@@ -1,6 +1,5 @@
-<!---  --->
-
 # Description of 'School-git' database project:<br>
+
 
 <!--- Opisuję tu założenia projektu --->
 ### Main goals:
