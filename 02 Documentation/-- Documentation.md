@@ -6,6 +6,10 @@
 * Every every teacher can have lesson with more than one student.
 
 
+A quick info before steps of this project:<br>
+<!--------Legend ------>
+
+
 
 ### Steps:
 1. I designed datababase of school in Draw.io and exported to *.jpg file.<br>
@@ -18,5 +22,5 @@
 + Nauczyciel
 + Kierunek Studiów <br>
 
-(*For better practice, I do not use ready, right-mouse-button commands and write everything myself i SSMS query window.*)<br>
+(*For better practice, I do not use ready, right-mouse-button commands or solutions and no COPY-PASTE because I write everything myself everytime in SSMS query window.*)<br>
 
