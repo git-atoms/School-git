@@ -16,5 +16,5 @@ FOREIGN KEY (id_studenta)
 REFERENCES dbo.Student(id_studenta),
 
 FOREIGN KEY (id_przemiotu)
-REFERENCES dbo.Przedmiot(id_przemiotu)
+REFERENCES dbo.Przedmiot(id_przedmiotu)
 )
