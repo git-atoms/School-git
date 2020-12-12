@@ -11,7 +11,7 @@ id_studenta INT NOT NULL,
 id_przemiotu INT NOT NULL,
 ocena INT CHECK (ocena LIKE '[2-5]')
 
--- Ustalanie kluczy obcych i ich powiązań
+-- Set up of Foreign Keys and their references
 FOREIGN KEY (id_studenta)
 REFERENCES dbo.Student(id_studenta),
 
