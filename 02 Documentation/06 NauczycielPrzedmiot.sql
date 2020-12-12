@@ -1,0 +1,2 @@
+-- Create 'NauczycielPrzedmiot' bridge table
+
