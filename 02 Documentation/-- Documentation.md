@@ -49,3 +49,12 @@ With '#' I named my workbook files, where I learnt and tried side-commands, not 
 
 
 4. Bridge tables (to avoid many-to-many relationships).
+
++ StudentPrzedmiot<br>
+<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/05%20StudentPrzedmiot.sql>
+
++ NauczycielPrzedmiot<br>
+<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/06%20NauczycielPrzedmiot.sql>
+
++ Dziekanat<br>
+<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/07%20Dziekanat.sql>
