@@ -9,6 +9,6 @@ id_przedmiotu INT IDENTITY(1,1) NOT NULL
 CONSTRAINT PK_id_przedmiotu
 PRIMARY KEY CLUSTERED,
 
-nazwa_przedmiotu nvarchar(20) NOT NULL
+nazwa_przedmiotu NVARCHAR(20) NOT NULL
 
 )
