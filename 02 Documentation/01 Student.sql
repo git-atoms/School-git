@@ -1,6 +1,7 @@
 -- Create 'Student' table
 CREATE TABLE School_DB.dbo.Student 
 (
+-- Create columns of this table
 id_studenta INT IDENTITY(1,1) NOT NULL
 
 -- Setup of Primary Key (PK)
