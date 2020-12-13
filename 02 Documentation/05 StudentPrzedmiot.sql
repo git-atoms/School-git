@@ -13,8 +13,8 @@ ocena INT CHECK (ocena LIKE '[2-5]')
 
 -- Set up of Foreign Keys and their references
 FOREIGN KEY (id_studenta)
-REFERENCES dbo.Student(id_studenta),
+    REFERENCES dbo.Student(id_studenta),
 
 FOREIGN KEY (id_przemiotu)
-REFERENCES dbo.Przedmiot(id_przedmiotu)
+    REFERENCES dbo.Przedmiot(id_przedmiotu)
 )
