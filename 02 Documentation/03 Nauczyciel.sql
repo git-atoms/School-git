@@ -8,6 +8,6 @@ id_nauczyciela INT IDENTITY(1,1) NOT NULL
 CONSTRAINT PK_id_nauczyciela
 PRIMARY KEY CLUSTERED,
 
-imie_nauczyciela nvarchar(20) NOT NULL,
-nazwisko_nauczyciela nvarchar(50) NOT NULL
+imie_nauczyciela NVARCHAR(20) NOT NULL,
+nazwisko_nauczyciela NVARCHAR(50) NOT NULL
 )
