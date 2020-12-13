@@ -2,6 +2,7 @@
 
 CREATE TABLE School_DB.dbo.Przedmiot
 (
+-- Create columns of this table
 id_przedmiotu INT IDENTITY(1,1) NOT NULL
 
 -- Setup of Primary Key (PK)
