@@ -1,6 +1,7 @@
 -- Create 'Nauczyciel' table
 CREATE TABLE School_DB.dbo.Nauczyciel
 (
+-- Create columns of this table
 id_nauczyciela INT IDENTITY(1,1) NOT NULL
 
 -- Setup Primary Key (PK)
