@@ -1,9 +1,10 @@
--- Create table 'Kierunek studiów'
+-- Create table 'Kierunek studiÃ³w'
 CREATE TABLE School_DB.dbo.Kierunek_studiow
 (
+-- Create columns of this table
 id_studiow INT IDENTITY(1,1) NOT NULL
 
--- Setup Primary Key (PK)
+-- Setup Primary Key (PK) of first column
 CONSTRAINT PK_id_studiow
 PRIMARY KEY CLUSTERED,
 
