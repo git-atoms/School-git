@@ -9,8 +9,8 @@ id_przedmiotu INT NOT NULL
 /* There is no Primary Key so I set up Foreign Keys with
 their references */
 FOREIGN KEY (id_nauczyciela)
-REFERENCES dbo.Nauczyciel(id_nauczyciela),
+    REFERENCES dbo.Nauczyciel(id_nauczyciela),
 
 FOREIGN KEY (id_przedmiotu)
-REFERENCES dbo.Przedmiot(id_przedmiotu)
+    REFERENCES dbo.Przedmiot(id_przedmiotu)
 )
