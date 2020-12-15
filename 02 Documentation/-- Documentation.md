@@ -10,8 +10,8 @@
 <br>
 
 <!--- Poniżej wtrącony komentarz o tym co to za pliki z hashem z przodu w nazwie --->
->**Important info:**<br>
-> With hash '#' in the filename, I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project.
+>_**Important info:**_<br>
+> _With hash '#' in the filename, I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project._
 
 <br>
 
