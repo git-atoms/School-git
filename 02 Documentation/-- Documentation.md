@@ -10,11 +10,9 @@
 
 
 <!--- Poniżej wtrącony komentarz o tym co to za pliki z hashem z przodu w nazwie --->
+>**Important info:**<br>
+> With hash '#' in the filename, I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project.
 
----
-
-With hash '#' I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project.
-===
 
 
 
@@ -28,9 +26,9 @@ With hash '#' I named my workbook files, where I learnt and tried side-commands,
 
 3. Main tables of my project:<br>
 
----
-Every sub-point below is a link to SQL query in repository. Click on them to see code.
-===
+>**Important info:**<br>
+> Every sub-point below is a link to SQL query in repository. Click on them to see code.
+
 
 
 <!--- Dla wygody dodałem linki do wymienianych nazw plików --->
@@ -47,9 +45,8 @@ Every sub-point below is a link to SQL query in repository. Click on them to see
 
 <!--- Info o tym, że wszystko klepię z palca aby wprawić się lepiej --->
 
----
-For better practice, I do not use ready right-mouse-button commands or solutions and I don't copy the code: everytime I write code myself in SSMS query window.
-===
+>**Important info:**<br>
+> For better practice, I do not use ready right-mouse-button commands or solutions and I don't copy the code: everytime I write code myself in SSMS query window.
 
 <br>
 
