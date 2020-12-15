@@ -13,7 +13,7 @@
 
 ---
 
-With '#' I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project.
+With hash '#' I named my workbook files, where I learnt and tried side-commands, not really used in code of files from steps of my project.
 ===
 
 
@@ -28,36 +28,38 @@ With '#' I named my workbook files, where I learnt and tried side-commands, not 
 
 3. Main tables of my project:<br>
 
+---
+Every sub-point below is a link to SQL query in repository. Click on them to see code.
+===
+
+
 <!--- Dla wygody dodałem linki do wymienianych nazw plików --->
 
-+ Student<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/01%20Student.sql>
++ [Student](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/01%20Student.sql)
 
-+ Przedmiot<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/02%20Przedmiot.sql>
++ [Przedmiot](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/02%20Przedmiot.sql)
 
-+ Nauczyciel<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/03%20Nauczyciel.sql>
++ [Nauczyciel](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/03%20Nauczyciel.sql)
 
-+ Kierunek Studiów<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/04%20Kierunek%20studi%C3%B3w.sql>
++ [Kierunek_studiow](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/04%20Kierunek%20studi%C3%B3w.sql)
 <br>
 
 
 <!--- Info o tym, że wszystko klepię z palca aby wprawić się lepiej --->
-(*For better practice, I do not use ready, right-mouse-button commands or solutions and no COPY-PASTE because I write everything myself everytime in SSMS query window.*)<br>
+
+---
+For better practice, I do not use ready right-mouse-button commands or solutions and I don't copy the code: everytime I write code myself in SSMS query window.
+===
+
+<br>
 
 
 4. Bridge tables (to avoid many-to-many relationships).
 
-+ StudentPrzedmiot<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/05%20StudentPrzedmiot.sql>
++ [StudentPrzedmiot](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/05%20StudentPrzedmiot.sql)
 
-+ NauczycielPrzedmiot<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/06%20NauczycielPrzedmiot.sql>
++ [NauczycielPrzedmiot](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/06%20NauczycielPrzedmiot.sql)
 
-+ Dziekanat<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/07%20Dziekanat.sql>
++ [Dziekanat](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/07%20Dziekanat.sql)
 
-+ Plan_zajec<br>
-<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/08%20Plan%20zaj%C4%99%C4%87.sql>
++ [Plan_zajec](https://github.com/git-atoms/School-git/blob/master/02%20Documentation/08%20Plan%20zaj%C4%99%C4%87.sql)
