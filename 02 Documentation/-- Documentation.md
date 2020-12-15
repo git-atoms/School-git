@@ -58,3 +58,6 @@ With '#' I named my workbook files, where I learnt and tried side-commands, not 
 
 + Dziekanat<br>
 <https://github.com/git-atoms/School-git/blob/master/02%20Documentation/07%20Dziekanat.sql>
+
++ Plan_zajec<br>
+<https://github.com/git-atoms/School-git/blob/master/02%20Documentation/08%20Plan%20zaj%C4%99%C4%87.sql>
