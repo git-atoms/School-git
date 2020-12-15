@@ -14,7 +14,7 @@ FOREIGN KEY (id_nauczyciela)
     REFERENCES dbo.Nauczyciel(id_nauczyciela),
 
 FOREIGN KEY (id_studenta)
-    REFERENCES dbo.Student(id_studenta)
+    REFERENCES dbo.Student(id_studenta),
 
 -- Create rest of columns
 lekcja_time_start TIME NOT NULL,
