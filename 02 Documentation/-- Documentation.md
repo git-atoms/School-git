@@ -26,6 +26,8 @@
 >_**Important info:**<br>
 > Every sub-point below is a link to SQL query in repository. Click on them to see code._
 
+<br>
+
 3. Main tables of my project:<br>
 
 <!--- Dla wygody dodałem linki do wymienianych nazw plików --->
