@@ -27,5 +27,4 @@
 + I will get knowledge, skill and experience for future projects.
 
 ---
-For more informations, I invite you to check **Documentation** folder:<br>
-<https://github.com/git-atoms/School-git/tree/master/02%20Documentation>
+For more informations, I invite you to check [**Documentation**](https://github.com/git-atoms/School-git/tree/master/02%20Documentation) folder:<br>
