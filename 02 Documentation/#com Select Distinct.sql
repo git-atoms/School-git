@@ -1,6 +1,6 @@
 SELECT DISTINCT
-	--FirstName as 'Imię'
-	LastName as 'Nazwisko'
+	FirstName as 'Imię'
+	,LastName as 'Nazwisko'
 
 FROM
 	[AdventureWorks2014].Person.Person
