@@ -1,9 +1,9 @@
-select distinct
-	--FirstName as Imiê
-	LastName as Nazwisko
+SELECT DISTINCT
+	--FirstName as 'ImiÄ™'
+	LastName as 'Nazwisko'
 
-from
-	Person.Person
+FROM
+	[AdventureWorks2014].Person.Person
 
-order by
-	Nazwisko asc
+ORDER BY
+	'Nazwisko' ASC
